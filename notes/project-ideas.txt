@@ -1,0 +1,16 @@
+sam khoo: thinking about value capture???
+
+My project ideas:
+    * Finish summarisign the Good regulator theorem
+    * Summary of the papar, "Power seeinking is instrumentally convergent in MDPs."
+    * Study transformers and implement a simple transformer from scratch (intro level)
+    * Study reinforcement larning and implemet a few simple RL techniques from scratch
+    * Study of coherence theorems in utility theory (literature review, shallow summaries)
+    * Summary of logical inductors post / finite factored sets / pearl causality in more detail / some of the deepmind agent models stuff
+    * Chat with Stephen and do some admin work for him / just be an assistant on ONE of his projects.
+    * Study compressed sensing and write a basic blog post on it, and do a few exercises in my notebook.
+    # Study complexity theory in more detail and write a summary of the complexity theory analogy from the Debate paper
+    * Write a summary of the resut from population ethics where they reduce the problem to a bunch of premises and show they are incompatible
+    * Summarise that theory article I found the other week where hey weere shoigng tha jailbreaks / adversarial attacks were a fundamental issue with LLMs.
+    * Try experiment with a few model eval libraries and evaluate Llama using a suite of benchmarks, to explore how good the software is and what kind of compatibiliy stuff needs to be done.
+    * Im sure there is loads more good theory stuff on lesswrong; I could just choose a researcher and try to distill EVERYTHING they have done.

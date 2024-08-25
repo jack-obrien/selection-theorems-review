@@ -1,0 +1,13 @@
+My plan for the agisf project: literature review on selection theorems. Take a whole load of concepts / blog posts, read them, riff on them if i feel like it. At least write a 1 paragraph summary of each post im intrerested in. List of posts:
+* John's original posts on Selection theorems, and Adam Khoja's distillation of it.
+* Scott garrabrant's stuff on geometric rationality
+* Coherence theorems for utility theory.
+* Evolutionary biology shallow dive and explanation of price and fishers equations.
+* Maybe some stuff by Thane Ruthenis.
+* ??? more examples to come once i read john's original post.
+
+
+TODO:
+* Make an initial lesswrong progress report.
+* Make a list of things to read.
+* Make a git repo on my pc with markdown and mathjax support. In the initial document, populate it with the list of things to read. For each thing I read, remove it from the TODO list and put its summary in the main body of the blog post. When I am done, any posts still left on the TODO list will get formatted and added as an 'additional reading' section.
